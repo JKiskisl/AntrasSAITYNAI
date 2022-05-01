@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<club>
+    <name>Foosin</name>
+    <address>Kauno g 8</address>
+    <telephone>86232323</telephone>
+
+    <employees>
+        <employee>
+            <name>Justas</name>
+            <lastname>Kiskis</lastname>
+            <telephone>8282382838</telephone>
+            <position>manager</position>
+            <clients>
+                <client>
+                    <name>Jonas</name>
+                    <lastname>Jonaitis</lastname>
+                    <membership>true</membership>
+                </client>
+                <client>
+                    <name>Petras</name>
+                    <lastname>Petraitis</lastname>
+                    <membership>false</membership>
+                </client>
+            </clients>
+        </employee>
+    </employees>
+</club>
